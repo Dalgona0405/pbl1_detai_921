@@ -1,0 +1,21 @@
+VT001;Bulong 12mm;Kim loai;Cai;01/04/2025;Cty Co khi A;120;15000;1620000
+VT002;Son trang;Xay dung;Lit;03/04/2025;Hoa Binh Paint;40;75000;3000000
+VT003;Day dien Cadivi;Dien;Cuon;05/04/2025;CADIVI;80;22000;1760000
+VT004;Xi mang Ha Tien;Xay dung;Bao;06/04/2025;Ha Tien;105;85000;8032500
+VT005;Gach op lat 30x30;Vat lieu hoan thien;Thung;07/04/2025;Viglacera;25;120000;3000000
+VT006;Den LED 1.2m;Thiet bi dien;Cai;08/04/2025;Dien Quang;55;135000;7425000
+VT007;Ton lanh mau xanh;Vat lieu tho;Tam;09/04/2025;Hoa Sen Group;60;195000;11700000
+VT008;Ong nhua PVC 42mm;Nuoc;Ong;10/04/2025;Binh Minh;70;58000;4060000
+VT009;Vit 4cm;Kim loai;Cai;11/04/2025;Cty Kim Khi Viet;180;3000;486000
+VT010;Ban le cua inox;Phu kien cua;Cai;12/04/2025;Hoa Phat;15;28000;420000
+VT011;Keo dan gach;Hoa chat;Bao;13/04/2025;Sika;65;185000;12025000
+VT012;Go MDF 9ly;Noi that;Tam;14/04/2025;An Cuong;35;215000;7525000
+VT013;Cat xay;Vat lieu tho;Khoi;15/04/2025;Dia phuong;90;95000;8550000
+VT014;Bong den am tran;Thiet bi dien;Cai;16/04/2025;Rang Dong;45;99000;4455000
+VT015;Thanh ray rem cua;Phu kien noi that;Thanh;17/04/2025;IKEA;50;105000;5250000
+VT016;Luoi thep B40;Kim loai;Cuon;18/04/2025;Thep Mien Nam;35;350000;12250000
+VT017;Son chong tham;Hoa chat;Lit;19/04/2025;Dulux;20;125000;2500000
+VT018;Van nuoc 21mm;Thiet bi nuoc;Cai;20/04/2025;Minh Hoa;110;48000;4752000
+VT019;Tu dien am tuong;Dien;Bo;21/04/2025;Panasonic;10;650000;6500000
+VT020;Go thong ghep;Noi that;Tam;22/04/2025;Cty Go Viet;75;450000;33750000
+VT021;Bua;Dung cu;Cai;10/04/2025;ABc;36;0;0
