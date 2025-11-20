@@ -11,19 +11,19 @@ The system allows users to manage material details (ID, Name, Type, Quantity, Pr
 ## 🚀 Features (Chức năng)
 Based on the project requirements, the application includes:
 * **Manage Materials:** Add, Insert, and Delete materials.
-* [cite_start]**Advanced Search:** Find materials by ID, Name, Type, or Manufacturer[cite: 119].
-* [cite_start]**Sorting:** Sort list by Quantity, Unit Price, or Total Amount (Bubble Sort algorithm)[cite: 138].
+* **Advanced Search:** Find materials by ID, Name, Type, or Manufacturer.
+* **Sorting:** Sort list by Quantity, Unit Price, or Total Amount (Bubble Sort algorithm).
 * **Auto-calculation:** Automatically calculate "Total Amount" based on Quantity and Price.
-* [cite_start]**Special Delete:** Function to bulk delete items with Quantity > 100[cite: 206].
-* [cite_start]**File I/O:** Load initial data from `Vat_tu.txt` and save changes to `Vat_tu_moi.txt`[cite: 62].
-* [cite_start]**Statistics:** Generate reports by Material Type[cite: 288].
+* **Special Delete:** Function to bulk delete items with Quantity > 100.
+* **File I/O:** Load initial data from `Vat_tu.txt` and save changes to `Vat_tu_moi.txt`.
+* **Statistics:** Generate reports by Material Type.
 
 ## 🛠️ Technical Details (Kỹ thuật sử dụng)
 * **Language:** C
-* [cite_start]**Data Structure:** Doubly Linked List (Danh sách liên kết đôi).
+* **Data Structure:** Doubly Linked List (Danh sách liên kết đôi).
 * **Algorithms:**
-    * [cite_start]Linear Search (O(n))[cite: 67].
-    * [cite_start]Bubble Sort (O(n^2))[cite: 68].
+    * Linear Search (O(n)).
+    * Bubble Sort (O(n^2)).
 * **IDE:** Dev-C++ / VS Code.
 
 ## 📸 Screenshots
@@ -50,7 +50,7 @@ Based on the project requirements, the application includes:
 ## 👥 Authors
 * **Bui An Binh**
 * **Thi Nguyen Thanh Truc**
-* *Instructor:* MSc. [cite_start]Do Thi Tuyet Hoa[cite: 8].
+* *Instructor:* MSc. Do Thi Tuyet Hoa.
 
 ## 📝 Usage
 1. Clone the repo.
